@@ -3,6 +3,6 @@
 
 Welcome to LA bro!
 
-![click here!!!](https://github.com/siziyu/Thug-Life-of-Miss-Gao/raw/master/pictures/common/%E5%B0%81%E9%9D%A2.png)
+(https://github.com/siziyu/Thug-Life-of-Miss-Gao/raw/master/pictures/common/%E5%B0%81%E9%9D%A2.png)
 详情请见wiki!
-![click here!!!](https://github.com/siziyu/Thug-Life-of-Miss-Gao/raw/master/pictures/common/siziyu微信收款码.jpg)
+(https://github.com/siziyu/Thug-Life-of-Miss-Gao/raw/master/pictures/common/siziyu微信收款码.jpg)
